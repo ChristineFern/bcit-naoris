@@ -1342,6 +1342,14 @@ footer .fa {
     background-color: #1f1b1c;
   }
 
+  .how-icon {
+    margin-left: -10%;
+  }
+
+  .how-box {
+    right: 6.5%;
+  }
+
   /***************nse***************/
 
   #nse {
